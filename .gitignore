@@ -1,0 +1,35 @@
+# Node.js dependencies
+node_modules/
+src/backend/node_modules/
+src/frontend/node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Build outputs
+dist/
+build/
+
+# Editor and IDE settings
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Cache directories
+.vite/
+.cache/
+
+# Test coverage
+coverage/
+
+# Others
+*.bak
+*.tmp
